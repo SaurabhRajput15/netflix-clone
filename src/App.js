@@ -1,8 +1,8 @@
+import Body from "./components/Body";
+
 function App() {
   return (
-    <div>
-      <h2>Hello World</h2>
-    </div>
+    <Body />
   );
 }
 
